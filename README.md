@@ -6,8 +6,7 @@
 <h2>Hi! ✌️</h2>
 
 I'm Erin Phillips!
-- <i>Currently:</i> BS CS Student @ The College of Charleston.
--                   Treasurer of Women in Computing Club @ CofC
+- <i>Currently:</i> BS CS Student @ The College of Charleston || Treasurer of Women in Computing Club @ CofC
 
 <h2>I'm currently working on</h2>
 
