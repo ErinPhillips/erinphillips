@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @ErinPhillips
-- 👀 I’m interested in math, nature, cats, and music. 
-- 🌱 I’m currently a senior in a Computer Science program
-- 💞️ I’m looking to collaborate on meaningful and intersting projects
-- 📫 How to reach me phillipsen@g.cofc.edu
+<h2 align='center'> Erin Phillips</h2>
+<p align='center'><b>Undergraduate Student at College of Charleston</b></p>
 
-<!---
-ErinPhillips/ErinPhillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=erinphillips.erinphillips)](https://github.com/erinphillips) [![Github Followers](https://img.shields.io/github/followers/erinphillips.svg?style=social&lavel=Follow)](https://github.com/erinphillips?tab=followers)
+
+<h2>Hi! ✌️</h2>
+
+I'm Erin Phillips!
+- <i>Currently:</i> BS CS Student at The College of Charleston.
+
+<h2>I'm currently working on</h2>
+
+- The Ethics Concerning Computing in Genetics and Biometrics
+- Software Engineering Term Project - Backend and Database Development
+- Cache Memory and Program Execution Speed Research Project
+
+__Check out my GitHub repository:__
+
+<div>
+    <p>
+        <a href="https://github.com/ErinPhillips/CSCI310">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI310" alt="GitHub Stats" />
+        </a>
+    </p>
+</div>
+
+<h2>Stats</h2>
+
+<div>
+    <p align="center">
+    <b><em>GitHub Stats:</em></b> <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=erinphillips" alt="GitHub Stats" />
+    <br/><br/>
+    <b><em>Activity This Week:</em></b> <br/>
+        <img src="http://github-readme-stats.vercel.app/api/wakatime?username=erinphillips" alt="WakaTime" />
+    </p>
+</div>
+
+<h2> About Me:</h2>
+
+I'm an Undergraduate Student in Charleston, SC. I love to explore the outdoors and enjoy live music in my free time. Currently in my senior year of undergrad looking for reasearch opportunities or just fellow people in tech. If you're in the Charleston area, drop an email and lets connect!
+
+*email TBA*
+
+<h2>Connect with me:</h2>
+
+<a href="https://www.linkedin.com/in/erin-phillips-26b840195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
