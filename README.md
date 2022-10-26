@@ -18,6 +18,9 @@ __Check out my GitHub repository:__
 
 <div>
     <p>
+        <a href="https://github.com/ErinPhillips/CSCI320">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI320" alt="GitHub Stats" />
+        </a>
         <a href="https://github.com/ErinPhillips/CSCI310">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI310" alt="GitHub Stats" />
         </a>
