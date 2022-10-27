@@ -1,5 +1,5 @@
-<h2 align='left'> Erin Phillips <img src="wicLogo.png" alt="wic logo" width="200" align="center"/> <img src="compu-scien.jpg" alt="cofc header" width="300" align="right"/></h2>
-<p align='rileftght'><b>Undergraduate Student at College of Charleston</b></p>
+<h2 align='left'> Erin Phillips <img src="wicLogo.png" alt="wic logo" width="200" align="center"/><img src="compu-scien.jpg" alt="cofc header" width="300" align="right"/></h2>
+<p align='left'><b>Undergraduate Student at College of Charleston</b></p>
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=erinphillips.erinphillips)](https://github.com/erinphillips) [![Github Followers](https://img.shields.io/github/followers/erinphillips.svg?style=social&lavel=Follow)](https://github.com/erinphillips?tab=followers)
@@ -7,7 +7,7 @@
 <h2>Hi! ✌️</h2>
 
 I'm Erin Phillips!
-- <i>Currently:</i> BS CS Student at The College of Charleston.
+- <i>Currently:</i> BS CS Student @ The College of Charleston || Treasurer of Women in Computing @ CofC
 
 <h2>I'm currently working on</h2>
 
