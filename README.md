@@ -1,4 +1,4 @@
-<h2 align='left'> Erin Phillips <img src="wicLogo.png" alt="wic logo" width="200" align="center"/><img src="compu-scien.jpg" alt="cofc header" width="300" align="right"/></h2>
+<h2 align='left'> Erin Phillips <img src="images/wicLogo.png" alt="wic logo" width="200" align="center"/><img src="images/compu-scien.jpg" alt="cofc header" width="300" align="right"/></h2>
 <p align='left'><b>Undergraduate Student at College of Charleston</b></p>
 
 
