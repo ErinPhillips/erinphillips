@@ -1,12 +1,17 @@
-<h1 align='center'> Hi there,✌️ I'm <a href="https://erinphillips.github.io/erinphillips/" target="blank">Erin Phillips!</a></h1>
+<div>
+    <h1 align="center">
+        <img src="images/wicLogo.png" alt="wic logo" align="center" width="150"/>
+        Hi there,✌️ I'm <a href="https://erinphillips.github.io/erinphillips/" target="blank">Erin Phillips!</a>
+        <img src="images/cofc-logo.png" alt="cofc logo" align="center" width="100"/>
+    </h1>
+</div>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=erinphillips.erinphillips)](https://github.com/erinphillips) [![Github Followers](https://img.shields.io/github/followers/erinphillips.svg?style=social&lavel=Follow)](https://github.com/erinphillips?tab=followers)
-    
- <img src="images/wicLogo.png" alt="wic logo" width="200" align="center"/><img src="images/compu-scien.jpg" alt="cofc header" width="55%" align="right"/></h1>
-<p align='left'><b>Undergraduate Student at College of Charleston</b></p>
+  
 
-- 
-- <i>Currently:</i> BS CS Student @ The College of Charleston || Treasurer of Women in Computing @ CofC
+- BS CS Student @ The College of Charleston
+-  I'm currently the Treasurer of Women in Computing @ CofC
+
 
 <h2>I'm currently working on</h2>
 
