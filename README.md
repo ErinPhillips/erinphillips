@@ -43,18 +43,10 @@ I love to explore the outdoors and enjoy live music in my free time. Currently i
 </th>
 <th align="center">
 <img src="https://skills.thijs.gg/icons?i=ts,js,nodejs,py,java,html,css,git,mysql,firebase&perline=5" />
-<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&width=600&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErinPhillips&layout=compact&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A&langs_count=9" alt="Top Langs" />
 </th>
 </thead>
 </tbody>
 </table>
-
-<h3 align="center">Check out my repositories:</h3>
-
-[![CSCI320](https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI320)](https://github.com/ErinPhillips/CSCI320)
-[![CSCI310](https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI310)](https://github.com/ErinPhillips/CSCI310)
-[![CampuSafe](https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=campusafe)](https://github.com/ErinPhillips/campusafe)
-[![CSCI340](https://github-readme-stats.vercel.app/api/pin/?username=erinphillips&repo=CSCI340)](https://github.com/ErinPhillips/CSCI340)
-    
