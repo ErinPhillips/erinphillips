@@ -17,8 +17,10 @@
 <!-- Badges -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erin-phillips-26b840195)
+![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phillipsen@g.cofc.edu)
 [![Visitors](https://visitor-counter-badge.vercel.app/api/ErinPhillips/visitor-counter-badge?color=23944bcc&labelColor=239A2A2A)](https://github.com/ErinPhillips)
+
 
 <table>
 <thead>
@@ -43,7 +45,7 @@ I love to explore the outdoors and enjoy live music in my free time. Currently i
 </th>
 <th align="center">
 <img src="https://skills.thijs.gg/icons?i=ts,js,nodejs,py,java,html,css,git,mysql,firebase&perline=5" />
-<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&width=600&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErinPhillips&layout=compact&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A&langs_count=9" alt="Top Langs" />
 </th>
