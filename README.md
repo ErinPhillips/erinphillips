@@ -41,12 +41,11 @@
 
 <b><em>About me:</em></b></br>
 
-I love to explore the outdoors and enjoy live music in my free time. Currently in my senior year of undergrad looking for reasearch opportunities or fellow people in tech. If you're in the Charleston area, drop an email and lets connect! 
+I love to explore the outdoors and enjoy live music in my free time.</br>Currently in my senior year of undergrad looking for reasearch opportunities or fellow people in tech. If you're in the Charleston area, drop an email and lets connect! 
 </th>
 <th align="center">
 <img src="https://skills.thijs.gg/icons?i=ts,js,nodejs,py,java,html,css,git,mysql,firebase&perline=5" />
-<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ErinPhillips&card_width=300&hide=prs,issues&show_icons=true&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErinPhillips&layout=compact&theme=transparent&title_color=9A2A2A&icon_color=9A2A2A&langs_count=9" alt="Top Langs" />
 </th>
 </thead>
