@@ -16,7 +16,7 @@
  
 <!-- Badges -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erin-phillips-26b840195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enwphillips)
 [![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1MelILVH54ykp-ub7_fl1va9MvbJjKp9-)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phillipsen@g.cofc.edu)
 [![Visitors](https://visitor-counter-badge.vercel.app/api/ErinPhillips/visitor-counter-badge?color=23944bcc&labelColor=239A2A2A)](https://github.com/ErinPhillips)
