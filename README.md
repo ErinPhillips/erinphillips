@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">
-        <img src="images/wic.gif" alt="wic logo" align="center" width="200"/>
+        <img src="images/wic.png" alt="wic logo" align="center" width="200"/>
         Hi there,✌️ I'm <a href="https://erinphillips.github.io/erinphillips/" target="blank" color="9A2A2A">Erin Phillips!</a>
         <img src="images/cofc-logo.png" alt="cofc logo" align="center" width="150"/>
     </h1>
