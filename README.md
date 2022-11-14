@@ -41,7 +41,7 @@
 
 <b><em>About me:</em></b></br>
 
-I love to explore the outdoors and enjoy live music in my free time.</br>Currently in my senior year of undergrad looking for reasearch opportunities or fellow people in tech. If you're in the Charleston area, drop an email and lets connect! 
+I love to explore the outdoors and enjoy live music in my free time.</br>Currently in my senior year of undergrad looking for research opportunities or fellow people in tech. If you're in the Charleston area, drop an email and lets connect! 
 </th>
 
 <th align="center">
