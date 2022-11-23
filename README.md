@@ -29,7 +29,7 @@
 
 - BS CS Student @ The College of Charleston
 - Treasurer of Women in Computing @ CofC
-- Searching for internship or reasearch opportunites
+- Searching for internship or research opportunites
 </br></br>
 
 <b><em>Working on:</b></em> 
