@@ -28,15 +28,15 @@
 <b><em>Currently:</em></b></br>
 
 - BS CS Student @ The College of Charleston
-- Treasurer of Women in Computing @ CofC
+- Vice President of Women in Computing @ CofC
 - Searching for internship or research opportunites
 </br></br>
 
 <b><em>Working on:</b></em> 
 
-- The Ethics Concerning Computing in Genetics and Biometrics
-- Software Engineering Term Project - Backend and Database Development
-- Cache Memory and Program Execution Speed Research Project
+- Software Engineering Capstone - TBD
+- Genetic Algorithm aproach to Intelligent Agents
+- 
 </br></br>
 
 <b><em>About me:</em></b></br>
