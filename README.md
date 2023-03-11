@@ -25,7 +25,6 @@
 <table>
 <thead>
 <th align="left">
-    
 <b><em>Currently:</em></b>
 </br></br>
 
