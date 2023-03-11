@@ -25,18 +25,17 @@
 <table>
 <thead>
 <th align="left">
-<b><em>Currently:</em></b></br>
+<b><em>Currently:</em></b>
 
 - BS CS Student @ The College of Charleston
 - Vice President of Women in Computing @ CofC
 - Searching for internship or research opportunites
 </br></br>
 
-<b><em>Working on:</b></em> 
+<b><em>Working on:</em></b> 
 
 - Capstone - Internal Performance Scoreboard: Next.js, PowerBI
 - Independent Study - House Hub Mobile App: Flutter
-
 </br></br>
 
 <b><em>About me:</em></b></br>
