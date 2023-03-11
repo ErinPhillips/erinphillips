@@ -26,6 +26,7 @@
 <thead>
 <th align="left">
 <b><em>Currently:</em></b>
+    </br>
 
 - BS CS Student @ The College of Charleston
 - Vice President of Women in Computing @ CofC
