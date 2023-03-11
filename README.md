@@ -34,9 +34,9 @@
 
 <b><em>Working on:</b></em> 
 
-- Software Engineering Capstone - TBD
-- Genetic Algorithm aproach to Intelligent Agents
-- 
+- Capstone - Internal Performance Scoreboard: Next.js, PowerBI
+- Independent Study - House Hub Mobile App: Flutter
+
 </br></br>
 
 <b><em>About me:</em></b></br>
